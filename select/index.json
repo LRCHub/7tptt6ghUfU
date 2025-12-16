@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Re:Hello world",
+  "base_artist": "律可",
+  "createdAt": "2025-12-16T03:43:41.010114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Re:Hello world",
+      "artist": "律可",
+      "has_synced": true,
+      "path": "select/01_Re_Hello_world_律可.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Re:Hello world",
+      "artist": "律可",
+      "has_synced": false,
+      "path": "select/pl_01_Re_Hello_world_律可.txt"
+    }
+  ]
+}
